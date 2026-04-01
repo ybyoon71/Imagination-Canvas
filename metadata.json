@@ -1,0 +1,5 @@
+{
+  "name": "상상 캔버스 (Imagination Canvas)",
+  "description": "Gemini Nano Banana(Flash Image)를 활용한 학생용 교육 이미지 생성기. 안전하고 교육적인 시각 자료를 생성합니다.",
+  "requestFramePermissions": []
+}
